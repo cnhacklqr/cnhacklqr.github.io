@@ -1,1 +1,1 @@
-alert("Welcome To Krlee's Blog")
+alert("Welcome To Krlee's Blog");
